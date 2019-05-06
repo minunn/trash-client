@@ -7,3 +7,6 @@ initial release !
 
 changelog Version ver1.2:
 soon
+
+
+working on :
