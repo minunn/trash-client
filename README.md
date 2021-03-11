@@ -1,3 +1,3 @@
 # trash-client
 trash client
-Welcome to TRASH Client By Minunn !
+Welcome to TRASH Client By Minunn for VR** !
